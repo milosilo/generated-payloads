@@ -1,0 +1,3 @@
+SQL Injection is a type of web application security vulnerability that allows attackers to inject malicious SQL statements into an application's database, giving them unauthorized access to sensitive data or the ability to modify or destroy that data. To test for SQL Injection vulnerabilities, security professionals often use SQL Injection payload generators to automate the process of crafting and testing SQL Injection payloads. In this article, we will cover four different types of SQL Injection payload generators: Error-based, Union-based, Blind, and Out-of-Band.
+
+Stay tuned for more updates...
